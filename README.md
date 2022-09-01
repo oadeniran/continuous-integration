@@ -184,7 +184,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
 <details id=4 open>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
-_Great job uploading test reports! :partying_face:_
+_Great job uploading test reports! :partying_face_:_
 
 Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
 
